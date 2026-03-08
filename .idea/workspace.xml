@@ -1,30 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c54ac511-789b-4d1b-9ece-92a5b340fb86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RockPaperScissorsFrame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cheat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cheat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissorsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RockPaperScissorsFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissorsGUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissorsGUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/paper.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quit.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/quit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/rock.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scissors.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/scissors.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lukaspestifanos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:lukaspestifanos/RockPaperScissorsGUI.git&quot;,
+    &quot;accountId&quot;: &quot;1b07d3eb-811b-44ab-8031-1de3baf9bd32&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3A5mskCDm5KRTxATuXD5mQ75GxA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RockPaperScissorsFrame.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lpmac/IdeaProjects/RockPaperScissorsGUI&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,5 +85,16 @@
       <updated>1771891014933</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
